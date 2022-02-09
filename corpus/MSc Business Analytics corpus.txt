@@ -1,0 +1,202 @@
+
+Overview
+Start date: September 2022Duration: 12 months full-timeFees: UK - £19,400, and Overseas - £35,100Application deadline: Applications open on 18 October 2021 and close on 31 March 2022 (please note that this is subject to change if the programme is filled before this date)Entry: Minimum of 2:1 or equivalent in a relevant discipline (International students - please note that UCL’s English language requirements must be met (a ‘Good Level’ IELTS test is currently required for this programme) further details regarding this can be found at the UCL English Language Requirements page.Coronavirus Information: See more information below
+The global economy is changing. Businesses are becoming more complex and interconnected. Organisations are generating and capturing trillions of bytes of information about their customers, suppliers and operations. And the technology, tools and platforms for analysing this data are evolving incredibly fast. This explosion of complexity, data, and technology is disrupting industries and creating new opportunities.
+But understanding the technology alone isn’t enough.
+The world’s leading companies need people who understand how management best practices are evolving to adjust to this new deeply complex, interconnected and data-driven world.
+People who can take data and transform it into a powerful strategic asset – people who deeply understand data, its potential and its limitations, who can frame complex data-driven business problems, analyse data with the right statistical techniques, employ the latest analytics tools and methods, and communicate analytics results to business executives, partners and customers.
+The UCL Business Analytics provides a rigorous, practical foundation in these critical skills and provides a platform for careers with global companies and high-growth businesses tackling world-scale problems.
+Programme
+UCL’s Business Analytics Master’s degree programme provides a rigorous, practical foundation in the key skills needed to unlock the value of data, and an in-depth understanding of how companies can use data to make decisions and improve business performance. It combines modules that explore how data and analytics are transforming key areas of business (decision-making, strategy, marketing, operations) with modules that provide students with the mathematical and computational foundations needed to make effective and intuitive use of the latest business analytics tools and platforms.
+Graduates from this London-based master’s programme will be highly employable in global companies and high growth and high tech businesses, finance and banking organisations and consulting firms. They will be equipped to influence strategy and decision-making, and be able to drive business performance by transforming data into a powerful strategic asset.
+During the year, students undertake six core modules, two optional modules and complete a Consulting Project/Dissertation.
+Programme structure
+To view information about the modules on this programme, enter the module code (eg MSIN0093) in UCL’s Online Module Catalogue.
+Core Modules
+Core modules in Programming for Business Analytics and Predictive Analytics in Terms 1 and 2 respectively, provide a foundation in delivering an analytical solution that flows naturally into the Term 3 Consulting Project/Dissertation. 
+These modules are complemented by Statistical Foundations for Business Analytics which ensure that students have the necessary statistical skills to make effective use of the latest analytics methods and tools. Business Strategy and Analytics focuses on how companies create value and competitive advantage in complex, innovation-intensive, data-driven environments.
+Additional core modules in Marketing Analytics and Operations Analytics explore in greater depth how data and analytics can unlock value in these key areas and build the insight and skills required to define and deliver practical, high-impact business analytics projects that improve business performance.
+MSIN0093 Business Strategy and Analytics
+This provides a foundation in how companies create value and competitive advantage in complex, innovation-intensive, data-driven environments. It will introduce strategy frameworks for goal setting and performance evaluation, and examine the descriptive, explanatory and predictive nature of data. Ethics, privacy and security considerations will be discussed.
+MSIN0094 Marketing Analytics
+Marketing Analytics addresses how to use data analytics to learn about and market to individual customers. This course examines the premise behind customer-centric marketing, helps you understand the customer lifecycle and customer profitability, and introduces analytical and statistical modeling of customer information.
+MSIN0096 Statistical Foundations for Business Analytics
+Underpinning the new analytics that are transforming key areas of business is foundational mathematics. This course will refresh your knowledge of algebra, statistics and calculus before moving onto econometrics with various Bayesian and regression models. It concludes with an introduction to the mathematical basis for supervised and unsupervised approached to machine learning.
+MSIN0143 Programming for Business Analytics
+Computational models and concepts for business analytics need to be implemented with tools and technologies. The course will cover computational thinking, experimental methodology, preparing datasets and empirical methods for training, validation and testing models. Practical sessions will provide a general introduction to programming in Python and look at standard implementation of useful algorithms.
+MSIN0097 Predictive Analytics
+Predictive Analytics will build on the foundational courses in Term 1 to explore techniques from data mining, statistics, modelling and machine learning in greater detail. We will analyse current data to make predictions about future events across a variety industry use cases with support specific companies and practitioners.
+MSIN0095 Operations Analytics
+This course explores in greater depth how data and analytics can unlock value in these key business areas and build the insight and skills required to define and deliver practical, high-impact business analytics projects that improve business performance.
+Consulting Project/Dissertation
+Students undertake a practical consulting project or an independent research-based project, which culminates in a dissertation of 12,000 words.
+Optional Modules
+Students take two optional modules. They are likely to be from the following list of elective modules offered by the UCL School of Management. The optional modules are designed to develop practical analytical skills that are in high demand by potential employers.
+The finalised list of optional modules offered for the 2022/23 academic year is as stated below.
+MSIN0074 Network Analysis
+MSIN0159 Decision and Risk Analysis
+MSIN0166 Data Engineering
+MSIN0167 Data Visualisation
+MSIN0221 Natural Language Processing
+COMP0142 Machine Learning for Domain Specialists
+MSIN0231​ Machine Learning for Business
+MSINXXXX Technology and Collective Intelligence
+MSINXXXX Managing Dviersity
+MSIN0081 Creativity and Critical Thinking
+MSIN0148 Influence and Negotiations 
+MSIN0088 Leading High-Performance Teams
+MSIN0098 Technology Entrepreneurship
+MSIN0226 Fintech
+The optional modules listed are subject to change each year and are indicative only. Optional modules can change for a variety of reasons including but not limited to updated learning outcomes, lack of demand and resourcing. For questions about optional modules, please reach contact us via email at: mgmt-ba@ucl.ac.uk.
+Teaching Team
+The teaching team brings together people with experience of how companies are evolving their management practices in a complex, interconnected and data-driven world and how they are employing the latest business analytics platforms and tools to make decisions and improve business performance. Module Leads can be found on their relevant module catalogue pages.
+The core teaching team includes:
+David Alderton, Programme Director
+Alastair Moore, Senior Teaching Fellow
+Anil Doshi, Assistant Professor
+Dongyuan Zhan, Assistant Professor
+Yongdong Liu, Assistant Professor
+Wei Miao, Assistant Professor
+Course Dates
+Full-time (one year):
+mid-September 2022 - mid-September 2023
+Location
+The majority of classes are taught at Level 38 and Level 50, One Canada Square, Canary Wharf, which is UCL’s home within London’s global business district. Some optional modules will take place at the Bloomsbury campus, which will also be open to students.
+Applications
+Student Profile
+Our students are, and always have been, selected on the basis of their talent and potential, whatever their personal, social or national background.
+UCL was the first English university to admit students regardless of race, class or religion, and the first to admit women students on equal terms with men.
+UCL degree programmes require our students to think critically and creatively, to tackle ambitious projects and to develop the leadership and entrepreneurial skills that will stand them in excellent stead for their future lives and careers. Our innovative evolving Business Analytics MSc programme embodies this approach to postgraduate study.
+We are looking for intellectually curious, self-motivated students who are passionate about business, technology and data. You will join an international cohort of students drawn from a wide variety of backgrounds.
+The minimum entrance requirements are an upper second-class Bachelor’s degree from a UK university or an overseas equivalent and a strong aptitude for quantitative analysis. Applicants are likely to have studied a range of degrees including business, engineering, computer science, economics, and psychology.
+ 
+Your Application
+We are aiming to prepare the next generation of “data native” leaders who are able to take data and transform it into a powerful strategic asset.
+We would like to understand how the programme could help you achieve your career goals, and what skills will you will bring to the class.
+When we assess your application we will be seeking to learn:
+Why you want to study Business Analytics at a postgraduate level;
+What particularly attracts you to this programme and to UCL;
+How your academic and professional background meets the demands of this challenging programme;
+What your post-degree aspirations are.
+The personal statement is an opportunity to illustrate whether your reasons for applying to this programme match what the programme will deliver.
+Fees
+The 2022-23 fees are available online. 
+Course fees are administered by the Student Fees Office. For more information on fees and financial support, please visit: UCL Prospective Student – Fees and Funding page.
+Scholarships
+Scholarships are available through UCL for all years of study. Competition for scholarships is fierce, however, and to stand a chance of being chosen you will need to show evidence of commitment and the potential for high achievement.
+Application for scholarships and bursaries must be made either when confirming your place before the start of your studies.
+Entry Requirements
+We are looking for intellectually curious, self-motivated students who are passionate about business, technology and data.
+Academic Profile: The minimum entrance requirements are an upper second-class (2:1) Bachelor’s degree from a UK university or an overseas equivalent and a strong aptitude for quantitative analysis. Applicants are likely to have studied a range of degrees including business, engineering, computer science, economics, and psychology. International Students may ascertain qualification equivalents from the UCL international students website. UCL Admissions check qualification equivalencies before forwarding application forms to our School. The UCL School of Management is unable to comment on international qualifications.
+Career Aspirations: Focused on helping global companies and high-growth businesses use business analytics to tackle world-scale problems.
+English Language Skills: Applicants whose first language is not English must be able to provide evidence that their spoken and written command of the English language is adequate. UCL’s preferred English language qualification is the International English Language Testing System (IELTS). A ‘Good Level’ is required for the Business Analytics: i.e. an overall grade of 7.0, with a minimum of 6.5 in each of the subtests.
+Application Process: Qualifications are assessed only once an application has been submitted. The equivalency of overseas qualifications cannot be assessed unless a full application with all supporting documentation such as degree transcripts, references, etc. has already been submitted to UCL.
+Interviews
+Applicants who meet the entry requirements and are suitable for the course may be invited for an online interview via WePow
+Contact
+For further information regarding the Business Analytics MSc please contact the Programme Administrator via: mgmt-ba@ucl.ac.uk. For further queries regarding admissions please see the UCL Postgraduate Admissions Webpage. 
+For more information regarding Confirmation of Acceptance for Studies (CAS) numbers for international students, please visit UCL's international student visa pages. 
+Coronavirus Information 
+Our top priority is the wellbeing and safety of our students and staff. The campus itself has been reconfigured in line with Government guidelines to ensure it is as safe as possible, with a wide range of safety measures in place. For advice and information concerning UCL’s response to the coronavirus outbreak, please visit UCL’s prospective students’ Coronavirus (Covid-19) information pages.
+Why choose us
+UCL is one of the world’s very-best universities, consistently placed in the global top 20 in a wide variety of world rankings.
+UCL’s Business Analytics is unlike any other degree in the UK. It provides you with an opportunity to develop an in-depth understanding of how companies are transforming data into a powerful strategic asset and a rigorous foundation in the key skills needed to build a successful career in global businesses.
+The programme is taught by the UCL School of Management, which is focused on creating disruptive research and entrepreneurial leaders for the complex, interconnected world of the future.
+The Business Analytics MSc
+Provides students with in-depth knowledge and understanding of business analytics
+Prepares students for working in a complex, interconnected, data-driven environments
+Delivers practical experience of applying new learned skills to a real business problem
+Prepares students for jobs in industries and organisations characterised by rapid changes in problems, opportunities and tools
+Enables students to develop the awareness, background, and skills necessary to become responsible citizens, employees, and leaders who can make a contribution to tackling some of the world’s most difficult social and economic problems
+In particular, the programme will help students develop:
+A critical appreciation of data, its potential and limitations, and how data can be used to improve business decision-making, and create value and competitive advantage in complex, interconnected, data-driven environments
+A knowledge and understanding of relevant statistical and computational techniques and how they can be applied in practice to business analytics problems
+An understanding of how data and analytics can provide the basis for new business models and new products and services
+The insight and skills required to frame business analytics problems, and define and deliver practical, high-impact business analytics projects that improve business performance
+An understanding of the opportunities to unlock value through business analytics in specific management areas, e.g. strategy, marketing, operations
+An ability to communicate analytics results effectively to non-specialist audiences, including business executives, partners and customers.
+A knowledge of contemporary issues necessary to understand the impact of business analytics in a global and societal context.
+
+
+Careers
+Our careers team work with students to enhance their employability, provide tailored individual careers support and facilitate connections with employers globally. Please visit our Careers page for further information.
+UCL is consistently ranked as one of the world’s very best universities and employers are keen to meet our students to discuss the opportunities they offer. In addition to the bespoke activities within the School of Management, you also have access to the central UCL Careers provision.
+Graduates from this programme will be highly employable in global companies and high growth businesses, finance and banking organisations and consulting firms. They will be equipped to influence strategy and decision-making, and be able to drive business performance by transforming data into a powerful strategic asset.
+
+The 2018-2019 Graduate Outcomes Survey shows that 96.9% of those surveyed (and who are eligible to work or study) secured highly-skilled work, or HE-level study within 15 months of graduating from the MSc Business Analytics programme. The graduates have found jobs in a variety of high-profile companies including:
+
+AIA
+Bloomberg LP
+Burberry Ltd
+Charles Taylor
+Chongqing Changan Ltd
+Citigroup
+Count
+Dice FM
+Dongseng Nissan Aupo Assignment
+Dunnhumby
+Expedia
+FDM Group Ltd
+Gaia
+HSBC Bank plc
+JD.com
+KPMG LLP
+Montessori School
+PwC
+Sertis
+Sia Partners
+The Oxford-Partnership
+Travelodge
+UBS Investment Bank
+Visa Europe
+Wayfair
+XAI Asset Management
+Xandr
+...and many more
+Video Library
+
+Register for more information
+FAQs
+How can I apply?
+Applications to join the programme in September 2022 opened on 18 October 2021 and close on 31 March 2022 (this can be earlier if the places are filled). Applications to start the programme in September 2023 will open from October 2022. You can apply via UCL’s online portal.
+Can I find out if I am a suitable candidate for the course before applying?
+Unfortunately we are not able to comment on a candidate’s suitability for the course before we receive a completed application form. Our minimum entry requirements can be found above.
+Do I need technical skills, such as coding, to undertake this course?
+Yes, we would recommend you have experience of using a programming language as you will be required to use this throughout the programme. You will undertake a core module in Programming for Business Analytics, which ensures that you have the necessary computational skills to be able to make effective use of the latest analytics tools. For full details of the admissions requirements, see the Student Profile, above.
+Do I need strong mathematical/statistical skills for this programme?
+A good mathematical understanding is needed for the programme. You will undertake a core module in Statistical Foundations for Business Analytics to ensure that you have the necessary mathematical and statistical skills to be able to make effective use of the latest analytics tools.
+How long is the course and what are the term dates?
+The course lasts for a full calendar year from mid- September to mid-September. The majority of teaching finishes at the end of Term Two, allowing students to prepare for the dissertation project. Please see UCL term dates, noting the term date exceptions which apply to Postgraduate students.
+Can I enrol in the programme part-time?
+No, unfortunately this programme is not offered as a part-time study.
+What programming languages do you use?
+The core elements of the programme are delivered in Python. In other modules we also use; R, Stata and JavaScript but Python is the main language used.
+Where can I find out about UCL accommodation?
+Please see student accommodation for details of accommodation available at UCL.
+Can I obtain a scholarship, assistantship or some other form of funding?
+Information about the School’s scholarships and financial assistance is available here. Competition for scholarships is fierce, however, and to stand a chance of being chosen you will need to show evidence of commitment and the potential for high achievement.
+What is the best time to submit my application?
+The sooner the better. Apply to see if you meet the requirements and if you get an interview. Applications are open until 31 March 2022, however this could be earlier if the programme is filled.
+What are the language requirements for the programme?
+Applicants whose first language is not English must be able to provide evidence that their spoken and written command of the English language is adequate. UCL’s preferred English language qualification is the International English Language Testing System (IELTS). A ‘Good Level’ is required for the Business Analytics: i.e. an overall grade of 7.0, with a minimum of 6.5 in each of the subtests.
+I have studied in English; do I need to take a language test?
+All candidates whose first language is not English require a minimum score of 7.0 with minimum scores of 6.5 in each of the subsets in the IELTS. All students whose first language is not English must take the IELTS. More information on our English language requirements can be found on the prospective student pages
+My application has been unsuccessful. Can I find out why and request to be reconsidered?
+Unfortunately, we are unable to give details as to why individual applications have been unsuccessful. We cannot reconsider decisions due to the high volume of applications.
+Can I meet with faculty before I apply?
+We consider such requests on a “case by case” basis.  However, we do encourage you to come along to one of our open events on campus or join a virtual session.
+I am an international student; how can I find out what the degree equivalency is for my home institution?
+International Students may ascertain qualification equivalents from the UCL international students website. UCL Admissions check qualification equivalencies before forwarding application forms to our School. We are unable to comment on international qualifications.
+
+When is the CAS (Confirmation of Acceptance of Studies) number issued? 
+For more information regarding the issuing of Confirmation of Acceptance for Studies (CAS) numbers, please visit UCL's offer holders FAQ's page and see the section titled 'immigration'. 
+
+My degree results are just under a 2.1, can I be considered anyway? 
+No, unfortunately, we are not able to consider any candidates below the minimum entry requirements. This includes applicants with a current average grade below a 2:1 or equivalent.
+What documents are required for the application?
+You will need to include a degree transcript in one of the suggested disciplines, two references, and a personal statement. Overseas applicants should also supply evidence of their English language ability usually via an IELTS test.
+What careers support is available to students studying on this programme?
+Please visit the careers website for information regarding our dedicated careers support.
+ 
+
+
